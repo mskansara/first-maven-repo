@@ -10,5 +10,6 @@ public class EmpView {
 		
 		System.out.println("Employee Id: " + emp.getEmpId());
 		System.out.println("Employee Name: " + emp.getName());
+		System.out.println("This is the new line");
 	}
 }
